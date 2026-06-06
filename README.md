@@ -187,7 +187,12 @@ flutter run
 * User Profile Management
 
 ---
+## Test Credentials
 
+Email: dhanaraj@gmail.com
+Password: 123456
+
+---
 ## Developed By
 
 Dhanaraj
