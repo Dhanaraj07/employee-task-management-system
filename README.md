@@ -193,11 +193,6 @@ Email: dhanaraj@gmail.com
 Password: 123456
 
 ---
-## Developed By
-
-Dhanaraj
-
-Employee Task Management System (ETMS)
 
 ## Screenshots
 
@@ -212,3 +207,10 @@ Employee Task Management System (ETMS)
 ### Dashboard Screen
 
 ![Dashboard Screen](screenshots/Dashboard.png)
+
+
+## Developed By
+
+Dhanaraj
+
+Employee Task Management System (ETMS)
