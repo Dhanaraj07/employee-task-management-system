@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 class TaskService {
-  static const String baseUrl = "http://10.200.62.241:8000";
+  static const String baseUrl = "https://employee-task-api-xqhv.onrender.com";
 
   Future<List<dynamic>> getTasks() async {
     final response = await http.get(Uri.parse('$baseUrl/tasks'));
