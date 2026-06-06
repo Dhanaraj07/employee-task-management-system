@@ -194,10 +194,24 @@ https://employee-task-api-xqhv.onrender.com
 
 ---
 
+## Repository
+
+GitHub Repository:
+https://github.com/Dhanaraj07/employee-task-management-system
+
+---
+
 ## Test Credentials
 
 Email: dhanaraj@gmail.com
 Password: 123456
+
+---
+
+## API Documentation
+
+Swagger UI:
+https://employee-task-api-xqhv.onrender.com/docs
 
 ---
 
@@ -220,4 +234,8 @@ Password: 123456
 
 Dhanaraj
 
+GitHub:
+https://github.com/Dhanaraj07
+
+Project:
 Employee Task Management System (ETMS)
